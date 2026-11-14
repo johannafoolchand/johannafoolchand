@@ -1,4 +1,4 @@
-![Johanna — DevOps & Cloud](./Bannie%CC%80re%20Johanna%20DevOps%20et%20Cloud.png)
+![Johanna — DevOps & Cloud](./github-banner.svg)
 
 # Hi, I'm Johanna 👋
 
