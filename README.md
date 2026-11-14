@@ -1,3 +1,5 @@
+![Johanna — DevOps & Cloud](./Bannie%CC%80re%20Johanna%20DevOps%20et%20Cloud.png)
+
 # Hi, I'm Johanna 👋
 
 ### Junior DevOps & Cloud | Linux • Automation • Infrastructure
